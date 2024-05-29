@@ -12,13 +12,13 @@
 ![PHP](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=purple)
 
 ## GitHub Stats
-<table>
+<table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical" alt="Your GitHub stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical" alt="Your GitHub stats" style="width:100%">
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=alisherodilov2&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=alisherodilov2&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophy" style="width:100%">
     </td>
   </tr>
 </table>
