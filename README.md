@@ -16,4 +16,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=alisherodilov2&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
 
+## Projects
+- [Project 1](https://github.com/alisherodilov2/ExpressApi) - Brief description
+- [Project 2](https://github.com/alisherdilov2/pharm) - Brief description
+
 
