@@ -12,12 +12,11 @@
 ![PHP](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=purple)
 
 ## GitHub Stats
-## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical)
 
 
 ## Projects
-- [Project 1](https://github.com/alisherodilov2/ExpressApi) - Brief description
-- [Project 2](https://github.com/alisherdilov2/pharm) - Brief description
+- [JS ApI Starter Kit](https://github.com/alisherodilov2/ExpressApi)
+- [Full pharn App](https://github.com/alisherdilov2/pharm) 
 
 
