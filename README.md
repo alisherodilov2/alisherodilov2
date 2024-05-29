@@ -11,10 +11,12 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat&logo=flutter&logoColor=blue)
 ![PHP](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=purple)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical)
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherodilov2&layout=compact)
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical)
+
 
 ## Projects
 - [JS ApI Starter Kit](https://github.com/alisherodilov2/ExpressApi)
