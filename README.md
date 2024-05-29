@@ -13,7 +13,8 @@
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical)
-
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherodilov2&layout=compact)
 
 ## Projects
 - [JS ApI Starter Kit](https://github.com/alisherodilov2/ExpressApi)
