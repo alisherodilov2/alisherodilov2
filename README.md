@@ -1,8 +1,10 @@
 # Hello, I'm ALISHER ODILOV 👋
 ## About Me
-- 🔭 I’m currently working on Mobile App Development on Flutter
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on IT WORKS TEAM
+- 🔭 I’m currently working on a cool open-source project
+- 🌱 I’m currently learning advanced Flutter and Laravel
+- 👯 I’m looking to collaborate on web development projects
+- 💬 Ask me about JavaScript, PHP, and open source
+- 📫 How to reach me: alisherodilov519@gmail.com
 - ⚡ Fun fact:
 - ## Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
