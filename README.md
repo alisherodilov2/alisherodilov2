@@ -12,7 +12,7 @@
 ![PHP](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=purple)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical)
 
 ![](https://github-profile-trophy.vercel.app/?username=alisherodilov2&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
 
