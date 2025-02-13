@@ -19,11 +19,6 @@
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alisherodilov2&show_icons=true&theme=radical)
 
-
-## Projects
-- [JS ApI Starter Kit](https://github.com/alisherodilov2/ExpressApi)
-- [Full pharn App](https://github.com/alisherdilov2/pharm) 
-
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://instagram.com/alisherodilov1)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/alisher*odil0v)
