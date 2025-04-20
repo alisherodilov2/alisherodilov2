@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about JavaScript, PHP, and open source
 - 📫 How to reach me: alisherodilov519@gmail.com
-- ⚡ Fun fact:
 - ## Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
