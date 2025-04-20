@@ -1,7 +1,6 @@
 # Hello, I'm ALISHER ODILOV 👋
 ## About Me
-- 🔭 I’m currently working on a cool open-source project
-- 🌱 I’m currently learning advanced Flutter and Laravel
+- 🌱 I’m currently learning advanced Data science
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about JavaScript, PHP, and open source
 - 📫 How to reach me: alisherodilov519@gmail.com
