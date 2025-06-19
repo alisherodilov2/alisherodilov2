@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-61DAFB?style=flat&logo=flutter&logoColor=blue)
-![PHP](https://img.shields.io/badge/-php-61DAFB?style=flat&logo=php&logoColor=purple)
+![LARAVEL](https://img.shields.io/badge/-laravel-F9322C?style=flat&logo=laravel&logoColor=white)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisherodilov2&layout=compact)
